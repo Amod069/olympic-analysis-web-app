@@ -13,7 +13,7 @@ It's a simple Analysis perform on Summer Olympic from 1990 to 2016
 - KAGGLE USED FOR DATASET
 ## Demo
 LINK 👉
-https://olympic-data-analysis-amod.herokuapp.com/
+https://amod069-olympic-analysis-web-app-app-lo6ipd.streamlit.app/
 
 ## Screenshots 1
 
