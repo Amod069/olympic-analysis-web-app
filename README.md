@@ -17,7 +17,8 @@ https://olympic-data-analysis-amod.herokuapp.com/
 
 ## Screenshots 1
 
-![App Screenshot](https://imgbox.io/ib/v5ubI0ND4D)
+![App Screenshot](https://user-images.githubusercontent.com/52829708/218245982-1ef4e15e-d39b-48ff-9cbc-8cef5aa77600.png)
+)
 ## Screenshots 2
 
 ![App Screenshot](https://imgbox.io/ib/jLdA6UjGOm)
